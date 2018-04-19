@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\css",
+    "\\Controllers",
+    "\\Includes",
+    "\\Includes\\Composer",
+    "\\Models",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\PartialViews",
+    "\\Views\\Post"
+  ],
+  "SelectedNode": "\\Controllers\\PostController.php",
+  "PreviewInSolutionExplorer": false
+}
